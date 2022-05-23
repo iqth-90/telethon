@@ -9,27 +9,27 @@
   "env": {
     "ALIVE_NAME": {
       "description": "هنا ضع اسم التلجرام الخاص بك",
-      "value": ""
+      "value": "."
     },
     "APP_ID": {
       "description": "هنا ضع الايبي ايدي الخاص بك يتكون من ارقام", 
-      "value": ""
+      "value": "11323422"
     },
     "API_HASH": {
       "description": "هنا ضع الايبي هاش الخاص بك يتكون من احرف و ارقام",
-      "value": ""
+      "value": "4f14a5a14655f7119465ab68bf090adb"
     },
     "STRING_SESSION": {
       "description": "هنا ضع كود تيرمكس الخاص بك",
-      "value": ""
+      "value": "1ApWapzMBu05ve8qAQltdALTQ2gO15zjEuOfSRsxfWuSicvwH5EF6FQd9Vc-2kDfYsenMM0m46fwC9yOAPnBf3kqiFUQogSEykMJ-pw-bltb2-mRgijrooZIu9VV5ZmI6RCjtMjpWn06eBKax2CSOBfnX1RIRLWcbivhd7MVTOpleD5qki781TJO4GENp9ONQr84ZRvqrSOBi4FxPfXTNg1ulIQT4RvMgFBjRnAJkJi27OmFBzzxRfVMzisYdxkfJhqlFcWgcuHFLPgr_U9UAYysYY9xJbTdkE-b0C74N3Ls7andwswxGvo3Xi0dSsLCD0G6pDs97ydTlC5jBVkTnF9rP6RGGDTQ="
     },
     "TG_BOT_USERNAME": {
       "description": "هنا ضع معرف بوتك بدون @",
-      "value": ""
+      "value": "Hdgdusybot"
     },
     "TG_BOT_TOKEN": {
       "description": "هنا ضع توكن بوتك",
-      "value": ""
+      "value": "5054100040:AAG-aPNhmiXCrOgZJv2io-gOxxyRaca309w"
     },
     "COMMAND_HAND_LER": {
       "description": "ضع هنا رمز الأمر الذي تريدة أو اتركة كما هوة",
